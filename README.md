@@ -114,8 +114,8 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 For any queries or contributions, reach out via:
-- 📧 Email: yourname@example.com
-- 🌐 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- 📧 Email: dubeytech9619@gmail.com
+- 🌐 GitHub: [Your GitHub Profile](https://github.com/Dubey411)
 
 ---
 ### 🚀 Let's build an efficient college management system together! 🎓
